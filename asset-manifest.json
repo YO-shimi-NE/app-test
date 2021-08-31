@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/app-test/static/css/main.839d9b7d.chunk.css",
+    "main.js": "/app-test/static/js/main.af1b9260.chunk.js",
+    "main.js.map": "/app-test/static/js/main.af1b9260.chunk.js.map",
+    "runtime-main.js": "/app-test/static/js/runtime-main.11c0bfd5.js",
+    "runtime-main.js.map": "/app-test/static/js/runtime-main.11c0bfd5.js.map",
+    "static/css/2.5e5d6148.chunk.css": "/app-test/static/css/2.5e5d6148.chunk.css",
+    "static/js/2.5af11cb5.chunk.js": "/app-test/static/js/2.5af11cb5.chunk.js",
+    "static/js/2.5af11cb5.chunk.js.map": "/app-test/static/js/2.5af11cb5.chunk.js.map",
+    "index.html": "/app-test/index.html",
+    "static/css/2.5e5d6148.chunk.css.map": "/app-test/static/css/2.5e5d6148.chunk.css.map",
+    "static/css/main.839d9b7d.chunk.css.map": "/app-test/static/css/main.839d9b7d.chunk.css.map",
+    "static/js/2.5af11cb5.chunk.js.LICENSE.txt": "/app-test/static/js/2.5af11cb5.chunk.js.LICENSE.txt",
+    "static/media/home-page-controller.c6413d0f.png": "/app-test/static/media/home-page-controller.c6413d0f.png",
+    "static/media/home-page-player.9a85096d.png": "/app-test/static/media/home-page-player.9a85096d.png",
+    "static/media/styles.css": "/app-test/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c0bfd5.js",
+    "static/css/2.5e5d6148.chunk.css",
+    "static/js/2.5af11cb5.chunk.js",
+    "static/css/main.839d9b7d.chunk.css",
+    "static/js/main.af1b9260.chunk.js"
+  ]
+}
